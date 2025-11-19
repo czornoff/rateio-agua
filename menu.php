@@ -1,8 +1,8 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <div class="container-fluid">
         <div class="navbar-brand">
-            <img src="./assets/img/logoRembrandt.png" alt="" width="30" height="30" class="d-inline-block align-text-top">
-            Rembrandt
+            <img src="./assets/img/logo.png" alt="" width="30" height="30" class="d-inline-block align-text-top">
+            Condomínio
         </div>
 
         <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navBarMenu" aria-controls="navBarMenu" aria-expanded="false" aria-label="Mostrar Menu">

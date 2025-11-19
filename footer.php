@@ -1,1 +1,1 @@
-<p class="text-center"></p>Condomínio Residencial Rembrandt</p>
+<p class="text-center"></p>Condomínio Residencial</p>

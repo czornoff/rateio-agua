@@ -4,11 +4,11 @@
             'HOST' => 'localhost',
             'USER' => 'root',
             'PASS' => '',
-            'NAME' => 'condrembrandt'
+            'NAME' => ''
         ],
         'app' => [
             'NAME' => 'NOME DA APLICAÇÃO',
-            'URL' => 'http://localhost/condrembrandt/',
+            'URL' => 'http://localhost/consumo/',
             'DEBUG' => true
         ],
         'smtp' => [

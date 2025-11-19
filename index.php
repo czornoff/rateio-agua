@@ -16,7 +16,7 @@
     <link rel="shortcut icon" href="../assets/img/favicon.ico">
     <link rel="stylesheet" href="https://cdn.datatables.net/2.3.5/css/dataTables.dataTables.css" />
 
-    <title>Condomínio Rembrandt</title>
+    <title>Condomínio</title>
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
     
@@ -37,7 +37,7 @@
         <div class="card my-3 col-md-12 alert-secondary">
             <div class="row" style="background-color: #FFFFFF;">
                 <div class="col-lg-1 col-md-2 col-1 p-1 align-self-center">
-                    <img src="https://www.condominiorembrandt.com.br/wp-content/uploads/2021/08/cropped-rembrandtFundo.png" class="card-img">
+                    <img src="./assets/img/logo.png" class="card-img">
                 </div>
                 <div class="col-lg-6 col-md-5 col-5 p-1 align-self-center">
                     <div class="card-body">
